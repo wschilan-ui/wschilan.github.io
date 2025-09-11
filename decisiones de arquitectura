@@ -1,0 +1,16 @@
+Decisiones de Arquitectura del Proyecto
+1. Plataforma de Hosting
+Se eligió Google Cloud Platform (GCP) para alojar la tienda ToCupboard debido a su robustez, escalabilidad y la disponibilidad de herramientas de seguridad integradas.
+Ventajas:
+Flexibilidad en el manejo de la infraestructura.
+Acceso a servicios de seguridad como Cloud Armor y Cloud Logging para una protección integral del tráfico.
+2. Sistema de Gestión de Contenidos (CMS)
+Se seleccionó WordPress como el CMS para la tienda online.
+Ventajas:
+Facilidad de uso y gestión para la creación de productos y contenido.
+Amplia comunidad y ecosistema de plugins para funcionalidades futuras (como WooCommerce para el comercio electrónico).
+Gran control sobre el código y la personalización del sitio.
+3. Estrategia de Seguridad
+La seguridad se implementa en dos capas para una defensa en profundidad:
+Nivel de Infraestructura (GCP): Se utilizan las herramientas de GCP para el monitoreo del tráfico y la protección de la red.
+Nivel de Aplicación (WordPress): Se emplea el plugin Wordfence para la protección específica del CMS, incluyendo la auditoría de archivos y la detección de malware.
