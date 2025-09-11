@@ -1,0 +1,10 @@
+Entregables del Sprint 1
+Este documento resume el trabajo completado en el primer sprint del proyecto ToCupboard.
+1. Implementación de la Página Web
+Se ha desarrollado la estructura de la página principal y las páginas de producto utilizando HTML, CSS y JavaScript para la lógica de cantidad y precio. Los archivos se encuentran en el tema de WordPress en la instancia de GCP.
+Página de Catálogo: Muestra los productos de primera necesidad.
+Página de Producto: Incluye una descripción, un selector de cantidad y botones para el carrito y el pago.
+2. Modelo DevSecOps Aplicado
+Se han implementado prácticas de seguridad desde el inicio del proyecto.
+Monitoreo del Tráfico: Se utiliza Google Cloud Platform (GCP) para monitorear el tráfico a nivel de red, incluyendo el uso de sus herramientas de seguridad para la protección contra ataques web.
+Auditoría de Archivos: Se ha configurado el plugin Wordfence en WordPress para la auditoría y monitoreo de los archivos del sitio web, protegiendo contra malware y cambios no autorizados.
