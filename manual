@@ -1,0 +1,19 @@
+Manual del Administrador de ToCupboard
+Este manual proporciona una guía rápida para los administradores de la tienda ToCupboard, cubriendo las tareas más comunes en el panel de WordPress.
+1. Acceso al Panel de Administración
+URL: Para acceder al panel, navega a `https://34.35.98.16/my-account/`.
+Credenciales: Utiliza el nombre de usuario y la contraseña proporcionados durante la configuración inicial.
+2. Gestión de Productos
+2.1. Ver y Editar Productos
+1.  En el menú lateral, ve a Productos > Todos los productos.
+2.  Aquí verás la lista completa de productos. Para editar uno, pasa el cursor sobre él y haz clic en "Editar".
+3.  Podrás cambiar el nombre, la descripción, el precio y otras opciones.
+2.2. Añadir un Nuevo Producto
+1.  En el menú lateral, ve a Productos > Añadir nuevo.
+2.  Introduce el nombre del producto, la descripción y el precio.
+3.  Añade una imagen del producto en el recuadro "Imagen del producto".
+4.  Haz clic en "Publicar" para que el producto sea visible en la tienda.
+3. Configuración de Seguridad
+La tienda está protegida con el plugin Wordfence. No es necesario realizar cambios en la configuración a menos que lo solicite el equipo de desarrollo.
+Escaneos de Malware: Los escaneos se ejecutan automáticamente. Puedes revisarlos en el menú Wordfence > Escanear.
+Firewall: El firewall de la aplicación está activo. Puedes ver la actividad bloqueada en el menú Wordfence > Firewall.
